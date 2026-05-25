@@ -41,7 +41,7 @@ device_monitor/
 
 ```bash
 git clone https://github.com/wetBlanket01/device_monitor.git
-cd device_monitor_api
+cd device_monitor
 ```
 
 ### 2. Создать .env файл
