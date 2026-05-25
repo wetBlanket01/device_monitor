@@ -1,4 +1,4 @@
-# device_monitor_api
+# Device Monitor API
 
 REST API сервис для сбора и анализа показаний с устройств.
 
