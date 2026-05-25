@@ -40,7 +40,7 @@ device_monitor/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/username/device_monitor.git
+git clone https://github.com/wetBlanket01/device_monitor.git
 cd device_monitor_api
 ```
 
