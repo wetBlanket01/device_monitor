@@ -15,7 +15,7 @@ REST API сервис для сбора и анализа показаний с 
 ## Структура проекта
 
 ```
-device_monitor_api/
+device_monitor/
 ├── app/
 │   ├── auth/               # аутентификация и авторизация (JWT)
 │   ├── users/              # пользователи
@@ -40,7 +40,7 @@ device_monitor_api/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/username/device_monitor_api.git
+git clone https://github.com/username/device_monitor.git
 cd device_monitor_api
 ```
 
