@@ -28,7 +28,7 @@ device_monitor/
 │   └── main.py
 ├── locust/
 │   └── locustfile.py
-├── alembic/
+├── migrations/
 ├── docker-compose.yml
 ├── Dockerfile
 ├── .env.example
